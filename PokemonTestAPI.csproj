@@ -85,8 +85,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PokeApi.NET-v2\PokeApi.NET\PokeApi.NET.csproj">
-      <Project>{C17F6275-FE6F-4650-C495-D627053CA6CE}</Project>
+    <ProjectReference Include="PokeApi.NET-v2\PokeApi.NET\PokeApi.NET.csproj">
+      <Project>{cced31d6-8de9-0932-a082-befd42e07065}</Project>
       <Name>PokeApi.NET</Name>
     </ProjectReference>
   </ItemGroup>
